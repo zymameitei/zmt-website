@@ -1,4 +1,5 @@
 function showUpdate() {
     const updateText = document.getElementById("update-text");
-    updateText.textContent = "Website structure deployed successfully!";
+    updateText.textContent = "Christmas offers! Available till 27 Dec";
 }
+
